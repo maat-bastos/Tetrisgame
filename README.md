@@ -2,6 +2,8 @@
 
 Um clone clássico do jogo Tetris, desenvolvido em Java, com arquitetura modular e suporte a temas personalizados. O projeto segue o padrão MVC (Model-View-Controller) e inclui recursos de pontuação, interface gráfica e diferentes estilos visuais.
 
+Para executar o jogo, clicar duas vezes no arquivo 'Tetrisgame' 
+
 ## 🧩 Funcionalidades
 
   * Interface gráfica interativa em Java Swing.
